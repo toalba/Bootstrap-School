@@ -4254,6 +4254,7 @@ input[type="button"].btn-block {
   border-bottom: 1px solid #dee2e6;
 }
 
+
 .nav-tabs .nav-item {
   margin-bottom: -1px;
 }
@@ -4675,7 +4676,10 @@ input[type="button"].btn-block {
 .navbar-light .navbar-text a:hover, .navbar-light .navbar-text a:focus {
   color: rgba(0, 0, 0, 0.9);
 }
-
+.navbar-blue{
+  color: var(--primary);
+  
+}
 .navbar-dark .navbar-brand {
   color: #fff;
 }
@@ -6769,7 +6773,7 @@ button.bg-light:focus {
 a.bg-dark:hover, a.bg-dark:focus,
 button.bg-dark:hover,
 button.bg-dark:focus {
-  background-color: #1d2124 !important;
+  background-color: #1d241e !important;
 }
 
 .bg-white {
